@@ -46,7 +46,7 @@ body {
 		transform: translate3d(2px, 0, 0);
 	}
 
-	30%,
+	31%,
 	50%,
 	70% {
 		transform: translate3d(-4px, 0, 0);
